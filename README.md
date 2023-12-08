@@ -10,14 +10,17 @@ Our team at Deloitte seeks to create and implement a state-of-the-art machine le
 
 ### Description of Data
 
+
 **Data Source**: Bank Account Application Fraud: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data
-Data description/stats 
+
+**EDA Techniques** 
+Add EDA techniques used and why it was helpful to the data
+
 
 
 ### Data Understanding and Analysis
 
-**EDA Techniques** 
-(EDA techniques/description)
+
 
 **Data Processing** 
 
@@ -33,7 +36,7 @@ add success metrics used and why
 
 ### Visualizations
 
-1. Historgram
+1. Histogram
 2. Heat Maps
 3. Confusion Matrix
 
