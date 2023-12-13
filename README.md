@@ -37,8 +37,10 @@ add success metrics used and why
 ### Visualizations
 
 1. Histogram
-2. Heat Maps
-3. Confusion Matrix
+![CustomerAge](https://github.com/hacampbell1/capstoneproject/assets/140438534/7fb26f36-910a-489c-95eb-594c204d7ca4)
+
+3. Heat Maps
+4. Confusion Matrix
 
 1. ROC Curve
 2. AUC
