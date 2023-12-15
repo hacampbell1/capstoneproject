@@ -24,7 +24,7 @@ Next, as out target was understanding the relationship between each variable and
 ### Data Understanding and Analysis
 
 
-When training our machine learning model for detecting bank account fraud, we employed a set of robust success metrics essential for evaluating its performance. Initially we utlized the ROC/AUC curve, offering a nuanced understanding of the model's ability to distinguish between fraudulent and legitimate transactions. This metric's effectiveness lies in its depiction of the trade-off between sensitivity (recall) and specificity, illustrating the model's performance across various thresholds. A high AUC score indicates a strong capability to classify between the two classes, serving as a reliable gauge of overall model performance.
+When training our machine learning model for detecting bank account fraud, we employed a set of robust success metrics essential for evaluating its performance. Initially we utlized the ROC/AUC curve, which offered an understanding of the model's ability to distinguish between fraudulent and legitimate transactions. This success metric allows us to see the trade-off between sensitivity and specificity of fruaduluent and non-fraudulent accounts. A high AUC score indicates a strong capability to classify between the two classes, serving as a reliable gauge of overall model performance.
 
 Moreover, precision and recall were important success metrics in our evaluation strategy. Precision quantifies the accuracy of positive predictions made by the model, emphasizing the proportion of correctly identified fraudulent cases among all predicted positives. Recall, on the other hand, measures the model's capability to identify all actual positive cases, indicating the completeness of fraud detection. Therefore, recall proved more useful in our model evaluation. In our model we were looking for a high recall through changing the decision thresholds and different weights to the target classes. Through this and additional techiniques we were able to acheive a recall **0.63*. This coupled with our high AUC of 0.76 helped prove the effectiveness of our model. Additionally, balancing these two metrics ensures a comprehensive understanding of the model's effectiveness, guarding against false positives and false negatives, both critical in the context of bank account fraud detection. 
 
@@ -34,33 +34,40 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 ### Visualizations
 
 1. Histogram
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/7fb26f36-910a-489c-95eb-594c204d7ca4">
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/e83bd679-bcda-4a49-ac04-30b86814a9b1"
-<img width="400" alt="Capture3" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/c4ffdd27-b79e-4e87-84d9-7593abe25b0e">
-<img width="400" alt="Capture4" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/8336ae69-bed3-4427-aaf8-b48a5a4a884c">
+![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/597606a7-becd-4c3f-a2a3-a6f84eeedde7)
+![download (5)](https://github.com/hacampbell1/capstoneproject/assets/140438534/d2a76b79-5c79-4252-922d-a657d248343c)
+![download (10)](https://github.com/hacampbell1/capstoneproject/assets/140438534/93e9ba45-0dd4-4084-a0ce-2abf149c36ea)
+![download (9)](https://github.com/hacampbell1/capstoneproject/assets/140438534/7a1098b1-2aa6-4920-99ca-2d50093b2743)
+
+2. Heat Maps
+![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/cc25b0b9-c65a-48ea-b0c5-f2574074c986)
+
+3. SMOTE's Impact on Class Distribution
+![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/a53e3f8f-cdeb-41d5-a964-6b4cf18864cf)
+
+4. Feature Importance: Undersampling
+![download (6)](https://github.com/hacampbell1/capstoneproject/assets/140438534/7aff70a6-b7b4-42c7-b460-9bb7fa10fab7)
+
+![download (7)](https://github.com/hacampbell1/capstoneproject/assets/140438534/9717b0eb-20ac-42c0-8484-0e1004328c3f)
+
+5. Feature Importance: Oversampling
+![download (3)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f808f4fd-b839-447e-a2bd-e08d594918b0)
+![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f169df55-91a6-48dc-9b4f-5e9c4e9291e9)
+   
+
+6. Confusion Matrix
+
+![download (2)](https://github.com/hacampbell1/capstoneproject/assets/140438534/c3475555-1dba-45a5-93c9-386d18417ae5)
+![download (1)](https://github.com/hacampbell1/capstoneproject/assets/140438534/925b3855-a6c4-47b2-8f92-ffcf8a0de6d1)
+
+7. ROC/AUC Curve
+![download (8)](https://github.com/hacampbell1/capstoneproject/assets/140438534/5b77eef6-faae-47c5-b6c1-968d17d9ecd7)
 
 
-3. Feature Importance: Undersampling
-<img width="400" alt="Capture" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/2b3b0dd0-2711-4278-a724-384822cee8d8">
-<img width="400" alt="Capture1" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/7766119b-6f85-4825-8655-110716083adc">
 
-4. Feature Importance: Oversampling
-<img width="400" alt="Capture6" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/3784bf50-85f4-4ab7-9751-8fa379ee1a80">
-<img width="400" alt="Capture5" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/30b8b121-38ee-4f06-99bb-4d44194960de">
+### Model Comparison: AUC & Recall
 
-6. Heat Maps
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/323910c5-633f-4c17-8a11-6213dedce471">
-
-7. Confusion Matrix
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/5801422f-7c73-4414-bed3-4e108cff8545">
-
-1. ROC Curve
-
-
-3. AUC
-
-
-### Description of Results and Performance 
+![Model_Comparison](https://github.com/hacampbell1/capstoneproject/assets/110149289/5b3a3fea-6141-453e-aaa6-20b9f09840a5)
 
 
 ### Conclusion and Next Steps 
@@ -69,7 +76,7 @@ The most successful machine learning models are those in which consistent adjust
 
 Although slight within the same industry, these predictors could vary from client to client. Leveraging these predictors as they best correlate to the client’s known fraudulent patterns and trends is recommended. As this directed research is being performed, it’s likely model scope or business need in relation to model output will be adjusted. Utilizing domain knowledge and investigating the most impactful fraud predictors are encouraged. In a similar fashion, continued development of the fraud account application machine learning model via the use of additional black box models such as Neural Networks is recommended. This will improve performance in large-scale data, improve efficiency and adaptaiblity. 
 
-Finally, we suggest exploring additional model performance metrics that accurately reflect the performance of the model. In addition to the ROC AUC curve, Confusion Metrics, and classification tasks such as precision and recall other opportunities for exploration include regression tasks such as mean squared error (MSE), mean absolute error (MAE) and R-squared. Taking these recommendations into consideration will enhance overall model performance and provide a wide range of visibility into the most impact bank account fraud application factors and set our clients up for continued success.  
+Finally, we suggest exploring the impact of cost-sensitive learning in comparison to resampling methods to further address imbalances in class distribution. This is relevant to our dataset as the non-fraudulent data far outnumbered the fraudulent data. Dataset characteristics and desired goal of model output are factors to consider in this decision. Taking these recommendations into consideration will enhance overall model performance and provide a wide range of visibility into the most impact bank account fraud application factors and set our clients up for continued success.  
 
 
 
