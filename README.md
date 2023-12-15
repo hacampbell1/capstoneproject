@@ -47,12 +47,15 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 1. Histogram
 ![CustomerAge](https://github.com/hacampbell1/capstoneproject/assets/140438534/7fb26f36-910a-489c-95eb-594c204d7ca4)
 ![download (1)](https://github.com/hacampbell1/capstoneproject/assets/140438534/e83bd679-bcda-4a49-ac04-30b86814a9b1)
+<img width="238" alt="Capture3" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/c4ffdd27-b79e-4e87-84d9-7593abe25b0e">
+<img width="219" alt="Capture4" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/8336ae69-bed3-4427-aaf8-b48a5a4a884c">
 
-2. Feature Importance
+
+3. Feature Importance
 <img width="280" alt="Capture" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/2b3b0dd0-2711-4278-a724-384822cee8d8">
 <img width="278" alt="Capture1" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/7766119b-6f85-4825-8655-110716083adc">
 
-3. Heat Maps
+4. Heat Maps
 ![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/323910c5-633f-4c17-8a11-6213dedce471)
 
 5. Confusion Matrix
