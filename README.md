@@ -63,10 +63,10 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 <img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/323910c5-633f-4c17-8a11-6213dedce471">
 
 7. Confusion Matrix
- <img width="400" src = "(https://github.com/hacampbell1/capstoneproject/assets/140438534/b54215d0-f9f1-4be3-8c7e-bcf3d2e37df3">
+<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/5801422f-7c73-4414-bed3-4e108cff8545">
 
 1. ROC Curve
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/5801422f-7c73-4414-bed3-4e108cff8545">
+
 
 3. AUC
 
