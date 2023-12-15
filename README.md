@@ -49,14 +49,18 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 ![CustomerAge](https://github.com/hacampbell1/capstoneproject/assets/140438534/7fb26f36-910a-489c-95eb-594c204d7ca4)
 ![download (1)](https://github.com/hacampbell1/capstoneproject/assets/140438534/e83bd679-bcda-4a49-ac04-30b86814a9b1)
 
+2. Feature Importance
+<img width="280" alt="Capture" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/2b3b0dd0-2711-4278-a724-384822cee8d8">
+<img width="278" alt="Capture1" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/7766119b-6f85-4825-8655-110716083adc">
+
 3. Heat Maps
 ![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/323910c5-633f-4c17-8a11-6213dedce471)
 
 5. Confusion Matrix
-![download (2)](https://github.com/hacampbell1/capstoneproject/assets/140438534/5801422f-7c73-4414-bed3-4e108cff8545)
+ ![download (3)](https://github.com/hacampbell1/capstoneproject/assets/140438534/b54215d0-f9f1-4be3-8c7e-bcf3d2e37df3)
 
 1. ROC Curve
-![download (3)](https://github.com/hacampbell1/capstoneproject/assets/140438534/b54215d0-f9f1-4be3-8c7e-bcf3d2e37df3)
+![download (2)](https://github.com/hacampbell1/capstoneproject/assets/140438534/5801422f-7c73-4414-bed3-4e108cff8545)
 
 3. AUC
 
