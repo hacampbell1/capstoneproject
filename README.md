@@ -30,6 +30,7 @@ Moreover, precision and recall were important success metrics in our evaluation 
 
 Finally, we created and analyzed confusion matrixes in order to see the models effectivness on a more granualar level. In turn this helped us improve out model throughout the process and identify areas of improvement for future tuning of our model. 
 
+# model comparison info here 
 
 ### Visualizations
 
