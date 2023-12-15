@@ -34,30 +34,34 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 ### Visualizations
 
 1. Histogram
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/7fb26f36-910a-489c-95eb-594c204d7ca4">
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/e83bd679-bcda-4a49-ac04-30b86814a9b1"
-<img width="400" alt="Capture3" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/c4ffdd27-b79e-4e87-84d9-7593abe25b0e">
-<img width="400" alt="Capture4" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/8336ae69-bed3-4427-aaf8-b48a5a4a884c">
+![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/597606a7-becd-4c3f-a2a3-a6f84eeedde7)
+![download (5)](https://github.com/hacampbell1/capstoneproject/assets/140438534/d2a76b79-5c79-4252-922d-a657d248343c)
 
 
 3. Feature Importance: Undersampling
-<img width="400" alt="Capture" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/2b3b0dd0-2711-4278-a724-384822cee8d8">
-<img width="400" alt="Capture1" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/7766119b-6f85-4825-8655-110716083adc">
+![download (6)](https://github.com/hacampbell1/capstoneproject/assets/140438534/7aff70a6-b7b4-42c7-b460-9bb7fa10fab7)
+
+![download (7)](https://github.com/hacampbell1/capstoneproject/assets/140438534/9717b0eb-20ac-42c0-8484-0e1004328c3f)
 
 4. Feature Importance: Oversampling
-<img width="400" alt="Capture6" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/3784bf50-85f4-4ab7-9751-8fa379ee1a80">
-<img width="400" alt="Capture5" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/30b8b121-38ee-4f06-99bb-4d44194960de">
+![download (3)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f808f4fd-b839-447e-a2bd-e08d594918b0)
+![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f169df55-91a6-48dc-9b4f-5e9c4e9291e9)
 
-6. Heat Maps
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/323910c5-633f-4c17-8a11-6213dedce471">
-
-7. Confusion Matrix
-<img width="400" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/5801422f-7c73-4414-bed3-4e108cff8545">
-
-1. ROC Curve
+5. SMOTE's Impact on Class Distribution
+ ![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/a53e3f8f-cdeb-41d5-a964-6b4cf18864cf)
+   
+7. Heat Maps
+![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/cc25b0b9-c65a-48ea-b0c5-f2574074c986)
 
 
-3. AUC
+8. Confusion Matrix
+![download (2)](https://github.com/hacampbell1/capstoneproject/assets/140438534/c3475555-1dba-45a5-93c9-386d18417ae5)
+![download (1)](https://github.com/hacampbell1/capstoneproject/assets/140438534/925b3855-a6c4-47b2-8f92-ffcf8a0de6d1)
+
+9. ROC Curve
+
+
+10. AUC
 
 
 ### Description of Results and Performance 
