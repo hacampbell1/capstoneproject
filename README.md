@@ -46,7 +46,7 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 
 1. Histogram
 <img width="280" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/7fb26f36-910a-489c-95eb-594c204d7ca4">
-![download (1)](https://github.com/hacampbell1/capstoneproject/assets/140438534/e83bd679-bcda-4a49-ac04-30b86814a9b1)
+<img width="280" src = "https://github.com/hacampbell1/capstoneproject/assets/140438534/e83bd679-bcda-4a49-ac04-30b86814a9b1"
 <img width="238" alt="Capture3" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/c4ffdd27-b79e-4e87-84d9-7593abe25b0e">
 <img width="219" alt="Capture4" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/8336ae69-bed3-4427-aaf8-b48a5a4a884c">
 
@@ -56,7 +56,7 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 <img width="278" alt="Capture1" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/7766119b-6f85-4825-8655-110716083adc">
 
 4. Feature Importance: Oversampling
-   <img width="264" alt="Capture6" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/3784bf50-85f4-4ab7-9751-8fa379ee1a80">
+<img width="264" alt="Capture6" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/3784bf50-85f4-4ab7-9751-8fa379ee1a80">
 <img width="288" alt="Capture5" src="https://github.com/hacampbell1/capstoneproject/assets/140438534/30b8b121-38ee-4f06-99bb-4d44194960de">
 
 6. Heat Maps
