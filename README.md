@@ -14,8 +14,11 @@ Our team at Deloitte seeks to create and implement a state-of-the-art machine le
 **Data Source**: Bank Account Application Fraud: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data
 
 **EDA Techniques** 
-Add EDA techniques used and why it was helpful to the data
+We started going through our dataset primarily with .info() to understnad each variable we were dealing with, as well as the possible values. We had 25 categorical and 5 variables that could be one of a set number of values. To better understand what these values could be, we had to go and search the dataset and associated documents which listed what each value represented and what they could possibly be. Upon disocvering this, we were able to understand each vaiable as whether it related to the technology used for the applicaation, background information about the applicant themselves, or information on the application itself.
 
+After understanding what each variable was and how it was associated or could ahve confounding impact with other variables, we went and searched basic summary statistics (mean, median, mode, etc.) or each variable to understand the range we were working with (eventuallyy we would standardize for better analysis). Next, we created various plots, often bar charts, to look at the distribution of variables as well as any outliars that could give us more insight into later analysis or each variable and how it could affect the likelihood of fraud. 
+
+Next, as out target was understanding the relationship between each variable and it's association with fraud, we created a heatmap to look for any associations between all variables. We predominantly were focusing on relationships with variables and the target variable, fraud_value, and we did see a range of correlation leading to a starting point for us to analyze and develop our model.
 
 
 ### Data Understanding and Analysis
@@ -31,14 +34,22 @@ Add EDA techniques used and why it was helpful to the data
 **Success Metrics** 
 add success metrics used and why 
 
+When training our machine learning model for detecting bank account fraud, we employed a set of robust success metrics essential for evaluating its performance. Initially we utlized the ROC/AUC curve, offering a nuanced understanding of the model's ability to distinguish between fraudulent and legitimate transactions. This metric's effectiveness lies in its depiction of the trade-off between sensitivity (recall) and specificity, illustrating the model's performance across various thresholds. A high AUC score indicates a strong capability to classify between the two classes, serving as a reliable gauge of overall model performance.
+
+Moreover, precision and recall were important success metrics in our evaluation strategy. Precision quantifies the accuracy of positive predictions made by the model, emphasizing the proportion of correctly identified fraudulent cases among all predicted positives. Recall, on the other hand, measures the model's capability to identify all actual positive cases, indicating the completeness of fraud detection. Therefore, recall proved more useful in our model evaluation. In our model we were looking for a high recall through changing the decision thresholds and different weights to the target classes. Through this and additional techiniques we were able to acheive a recall **0.63*. This coupled with our high AUC of 0.76 helped prove the effectiveness of our model. Additionally, balancing these two metrics ensures a comprehensive understanding of the model's effectiveness, guarding against false positives and false negatives, both critical in the context of bank account fraud detection. 
+
+Finally, we created and analyzed confusion matrixes in order to see the models effectivness on a more granualar level. In turn this helped us improve out model throughout the process and identify areas of improvement for future tuning of our model. 
+
 **Model Comparison** 
 
 
 ### Visualizations
 
 1. Histogram
-2. Heat Maps
-3. Confusion Matrix
+![CustomerAge](https://github.com/hacampbell1/capstoneproject/assets/140438534/7fb26f36-910a-489c-95eb-594c204d7ca4)
+
+3. Heat Maps
+4. Confusion Matrix
 
 1. ROC Curve
 2. AUC
