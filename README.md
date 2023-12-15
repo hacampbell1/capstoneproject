@@ -1,4 +1,4 @@
-# Bank Account Fraud Machine Learning Capstone 
+# Bank Account Application Fraud Machine Learning Model 
 
 ### Overview and Business Understanding
 
