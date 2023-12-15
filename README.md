@@ -37,28 +37,31 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 ![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/597606a7-becd-4c3f-a2a3-a6f84eeedde7)
 ![download (5)](https://github.com/hacampbell1/capstoneproject/assets/140438534/d2a76b79-5c79-4252-922d-a657d248343c)
 
+2. Heat Maps
+![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/cc25b0b9-c65a-48ea-b0c5-f2574074c986)
 
-3. Feature Importance: Undersampling
+3. SMOTE's Impact on Class Distribution
+![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/a53e3f8f-cdeb-41d5-a964-6b4cf18864cf)
+
+4. Feature Importance: Undersampling
 ![download (6)](https://github.com/hacampbell1/capstoneproject/assets/140438534/7aff70a6-b7b4-42c7-b460-9bb7fa10fab7)
 
 ![download (7)](https://github.com/hacampbell1/capstoneproject/assets/140438534/9717b0eb-20ac-42c0-8484-0e1004328c3f)
 
-4. Feature Importance: Oversampling
+5. Feature Importance: Oversampling
 ![download (3)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f808f4fd-b839-447e-a2bd-e08d594918b0)
 ![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f169df55-91a6-48dc-9b4f-5e9c4e9291e9)
-
-5. SMOTE's Impact on Class Distribution
- ![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/a53e3f8f-cdeb-41d5-a964-6b4cf18864cf)
    
-7. Heat Maps
+6. Heat Maps
 ![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/cc25b0b9-c65a-48ea-b0c5-f2574074c986)
 
 
-8. Confusion Matrix
+7. Confusion Matrix
+
 ![download (2)](https://github.com/hacampbell1/capstoneproject/assets/140438534/c3475555-1dba-45a5-93c9-386d18417ae5)
 ![download (1)](https://github.com/hacampbell1/capstoneproject/assets/140438534/925b3855-a6c4-47b2-8f92-ffcf8a0de6d1)
 
-9. ROC/AUC Curve
+8. ROC/AUC Curve
 ![download (8)](https://github.com/hacampbell1/capstoneproject/assets/140438534/5b77eef6-faae-47c5-b6c1-968d17d9ecd7)
 
 
