@@ -36,6 +36,8 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 1. Histogram
 ![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/597606a7-becd-4c3f-a2a3-a6f84eeedde7)
 ![download (5)](https://github.com/hacampbell1/capstoneproject/assets/140438534/d2a76b79-5c79-4252-922d-a657d248343c)
+![download (10)](https://github.com/hacampbell1/capstoneproject/assets/140438534/93e9ba45-0dd4-4084-a0ce-2abf149c36ea)
+![download (9)](https://github.com/hacampbell1/capstoneproject/assets/140438534/7a1098b1-2aa6-4920-99ca-2d50093b2743)
 
 2. Heat Maps
 ![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/cc25b0b9-c65a-48ea-b0c5-f2574074c986)
