@@ -30,7 +30,6 @@ Moreover, precision and recall were important success metrics in our evaluation 
 
 Finally, we created and analyzed confusion matrixes in order to see the models effectivness on a more granualar level. In turn this helped us improve out model throughout the process and identify areas of improvement for future tuning of our model. 
 
-# model comparison info here 
 
 ### Visualizations
 
@@ -64,7 +63,9 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 
 
 
-### Description of Results and Performance 
+### Model Comparison: AUC & Recall
+
+![Model_Comparison](https://github.com/hacampbell1/capstoneproject/assets/110149289/5b3a3fea-6141-453e-aaa6-20b9f09840a5)
 
 
 ### Conclusion and Next Steps 
