@@ -52,16 +52,13 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 ![download (3)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f808f4fd-b839-447e-a2bd-e08d594918b0)
 ![download (4)](https://github.com/hacampbell1/capstoneproject/assets/140438534/f169df55-91a6-48dc-9b4f-5e9c4e9291e9)
    
-6. Heat Maps
-![download](https://github.com/hacampbell1/capstoneproject/assets/140438534/cc25b0b9-c65a-48ea-b0c5-f2574074c986)
 
-
-7. Confusion Matrix
+6. Confusion Matrix
 
 ![download (2)](https://github.com/hacampbell1/capstoneproject/assets/140438534/c3475555-1dba-45a5-93c9-386d18417ae5)
 ![download (1)](https://github.com/hacampbell1/capstoneproject/assets/140438534/925b3855-a6c4-47b2-8f92-ffcf8a0de6d1)
 
-8. ROC/AUC Curve
+7. ROC/AUC Curve
 ![download (8)](https://github.com/hacampbell1/capstoneproject/assets/140438534/5b77eef6-faae-47c5-b6c1-968d17d9ecd7)
 
 
