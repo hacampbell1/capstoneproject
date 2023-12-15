@@ -30,8 +30,6 @@ Moreover, precision and recall were important success metrics in our evaluation 
 
 Finally, we created and analyzed confusion matrixes in order to see the models effectivness on a more granualar level. In turn this helped us improve out model throughout the process and identify areas of improvement for future tuning of our model. 
 
-**Model Comparison** 
-
 
 ### Visualizations
 
@@ -67,9 +65,8 @@ Finally, we created and analyzed confusion matrixes in order to see the models e
 
 ### Conclusion and Next Steps 
 
-# Conclusion 
 
-# Next Steps 
+
 The most successful machine learning models are those in which consistent adjustments are made to best suite the business needs and improve model outcomes. 
 Our team suggests the following next steps for continued improvement and positive impact. We first propose the client performs focused research into the most impactful fraud factors identified by our model. Although slight within the same industry, these predictors could vary from client to client. Leveraging these predictors as they best correlate to the client’s known fraudulent patterns and trends is recommended. As this directed research is being performed, it’s likely model scope or business need in relation to model output will be adjusted. Utilizing domain knowledge and investigating the most impactful fraud predictors are encouraged. 
 In a similar fashion, continued development of the fraud account application machine learning model via the use of additional black box models such as Neural Networks is recommended. This will improve performance in large-scale data, improve efficiency and adaptaiblity.Finally, we suggest exploring additional model performance metrics that accurately reflect the performance of the model. In addition to the ROC AUC curve, Confusion Metrics, and classification tasks such as precision and recall other opportunities for exploration include regression tasks such as mean squared error (MSE), mean absolute error (MAE) and R-squared.
