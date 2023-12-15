@@ -73,7 +73,7 @@ The most successful machine learning models are those in which consistent adjust
 
 Although slight within the same industry, these predictors could vary from client to client. Leveraging these predictors as they best correlate to the client’s known fraudulent patterns and trends is recommended. As this directed research is being performed, it’s likely model scope or business need in relation to model output will be adjusted. Utilizing domain knowledge and investigating the most impactful fraud predictors are encouraged. In a similar fashion, continued development of the fraud account application machine learning model via the use of additional black box models such as Neural Networks is recommended. This will improve performance in large-scale data, improve efficiency and adaptaiblity. 
 
-Finally, we suggest exploring additional model performance metrics that accurately reflect the performance of the model. In addition to the ROC AUC curve, Confusion Metrics, and classification tasks such as recall other opportunities for exploration include regression tasks such as mean squared error (MSE), mean absolute error (MAE) and R-squared. Taking these recommendations into consideration will enhance overall model performance and provide a wide range of visibility into the most impact bank account fraud application factors and set our clients up for continued success.  
+Finally, we suggest exploring the impact of cost-sensitive learning in comparison to resampling methods. Taking these recommendations into consideration will enhance overall model performance and provide a wide range of visibility into the most impact bank account fraud application factors and set our clients up for continued success.  
 
 
 
